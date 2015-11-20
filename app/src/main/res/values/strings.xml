@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DemoActionBar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_windows_Phone">Windows Phone</string>
+    <string name="label_ios">iOS</string>
+    <string name="label_android">Android</string>
+    <string name="label_pesquisar">Pesquisar</string>
+    <string name="label_adicionar">Adicionar</string>
+</resources>
